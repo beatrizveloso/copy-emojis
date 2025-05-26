@@ -1,6 +1,6 @@
-# 🌈 Copy Emojis ✨
+# ✨ Copy Emojis 
 
-Um site simples, divertido e fofíssimo onde você pode **copiar emojis e ícones** com apenas um clique! Criado com muito carinho para facilitar a vida de quem ama se expressar com símbolos visuais 💖💬
+Um site simples, divertido e fofíssimo onde você pode **copiar emojis e ícones** com apenas um clique! Criado com muito carinho para facilitar a vida de quem ama se expressar com símbolos visuais 
 
 ## 🎯 Objetivo
 
